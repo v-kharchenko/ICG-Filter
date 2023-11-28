@@ -17,6 +17,9 @@
 - Выбор темы приложения.
 
 ## Фильтры
+
+![ICG-Filter Demo](https://github.com/v-kharchenko/ICG-Filter/assets/139693859/d0c5abe2-791d-4d48-8bd3-3bb48b65e4b3)
+
 Программа реализует следующий набор фильтров, которые можно применить к изображению:
 - инверсия цвета;
 - обесцвечивание;
@@ -32,7 +35,5 @@
 - акварель;
 - контуринг;
 - гамма-коррекция;
-
-![ICG-Filter Demo](https://github.com/v-kharchenko/ICG-Filter/assets/139693859/d0c5abe2-791d-4d48-8bd3-3bb48b65e4b3)
 
 
